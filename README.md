@@ -1,4 +1,7 @@
 # iShare-Logo
 
-大三的时候实现的loading
-在线访问：http://scaukk.github.io/LogoTest/logotest.html
+##大三的时候实现的loading,在线访问:
+
+  -版本1: http://scaukk.github.io/LogoTest/logotest.html
+  
+  -版本2 : https://scaukk.github.io/css/demo_loading/logo.html
